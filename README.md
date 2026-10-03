@@ -1,5 +1,9 @@
 # APIs de Energia Renovável e Machine Learning
 
+RM 
+Maria Beatriz Braga de Lima - 570501
+Rafael Almeida Rebello - 570642
+
 ## Objetivo
 
 Este projeto tem como objetivo aplicar técnicas de análise de dados e Machine Learning utilizando dados obtidos por meio de APIs públicas relacionadas à geração de energia renovável e condições meteorológicas.
